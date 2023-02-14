@@ -9,7 +9,7 @@ const config = [
     output: {
       file: 'lib/bundle.js',
       format: 'umd',
-      name: 'MotionCanvasNord',
+      name: 'MyFirstMotionCanvasLibrary',
     },
     acornInjectPlugins: [jsx()],
     plugins: [typescript()],
