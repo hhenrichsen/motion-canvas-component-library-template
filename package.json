@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "description": "",
   "scripts": {
+    "prepare": "husky install",
     "build": "rollup -c rollup.config.mjs",
     "watch": "rollup -c rollup.config.mjs -w",
     "lint": "npm run eslint:fix && npm run prettier:fix",
