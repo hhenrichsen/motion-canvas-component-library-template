@@ -30,7 +30,7 @@ export class Switch extends Node {
 
   private isOn: boolean;
   private readonly indicatorPosition = createSignal(0);
-  private readonly offColor = new Color('#242424');
+  private readonly offColor = '#242424';
   private readonly indicator = createRef<Circle>();
   private readonly container = createRef<Rect>();
 
