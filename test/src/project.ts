@@ -3,5 +3,4 @@ import test from './scenes/test?scene';
 
 export default makeProject({
   scenes: [test],
-  background: '#141414',
 });
