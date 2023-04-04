@@ -24,13 +24,13 @@
   "author": "",
   "homepage": "",
   "peerDependencies": {
-    "@motion-canvas/2d": "^3.3.4",
-    "@motion-canvas/core": "^3.3.4",
+    "@motion-canvas/2d": "^3.4.0",
+    "@motion-canvas/core": "^3.4.0",
     "code-fns": "^0.8.2"
   },
   "devDependencies": {
-    "@motion-canvas/ui": "^3.3.4",
-    "@motion-canvas/vite-plugin": "^3.3.0",
+    "@motion-canvas/ui": "^3.4.0",
+    "@motion-canvas/vite-plugin": "^3.4.0",
     "@rollup/plugin-terser": "^0.4.0",
     "@rollup/plugin-typescript": "^11.0.0",
     "@typescript-eslint/eslint-plugin": "^5.51.0",
