@@ -41,7 +41,7 @@
     "husky": "^8.0.3",
     "lint-staged": "^13.2.0",
     "prettier": "^2.8.4",
-    "rimraf": "^4.1.2",
+    "rimraf": "^4.4.1",
     "rollup": "^3.20.2",
     "rollup-plugin-dts": "^5.1.1",
     "rollup-plugin-node-externals": "^5.1.2",
