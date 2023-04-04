@@ -37,6 +37,7 @@ export class Switch extends Node {
   public constructor(props?: SwitchProps) {
     super({
       ...props,
+      thing_that_breaks,
     });
 
     this.indicatorPosition(this.initialState ? 50 : -50);
