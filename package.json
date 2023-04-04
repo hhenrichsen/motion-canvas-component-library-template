@@ -16,7 +16,7 @@
     "serve": "vite"
   },
   "unpkg": "lib/bundle.js",
-  "main": "lib/bundle.js",
+  "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "keywords": [
     "motion-canvas"
