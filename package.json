@@ -24,12 +24,12 @@
   "author": "",
   "homepage": "",
   "peerDependencies": {
-    "@motion-canvas/2d": "^3.4.0",
+    "@motion-canvas/2d": "^3.5.1",
     "@motion-canvas/core": "^3.4.0",
     "code-fns": "^0.8.2"
   },
   "devDependencies": {
-    "@motion-canvas/ui": "^3.4.0",
+    "@motion-canvas/ui": "^3.5.0",
     "@motion-canvas/vite-plugin": "^3.4.0",
     "@rollup/plugin-terser": "^0.4.1",
     "@rollup/plugin-typescript": "^11.1.0",
