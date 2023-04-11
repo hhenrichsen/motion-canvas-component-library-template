@@ -22,6 +22,9 @@ jobs:
       - name: Install
         run: |
           npm ci
-      - name: Build
+      - name: Build Succeeds
         run: |
           npm run build
+      - name: Format Check
+        run: |
+          npm run lint
