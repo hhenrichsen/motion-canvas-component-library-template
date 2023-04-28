@@ -1,7 +1,8 @@
 {
-  "name": "motion-canvas-component-library",
-  "version": "0.0.0",
-  "description": "",
+  "name": "@dct-lulu/motion-canvas-terminal-component",
+  "author": "Dct LuLu",
+  "version": "0.1.2",
+  "description": "A terminal component for motion-canvas",
   "scripts": {
     "prepare": "husky install",
     "build:dev": "rollup -c rollup.config.mjs",
@@ -20,9 +21,12 @@
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "keywords": [
-    "motion-canvas"
+    "motion-canvas",
+    "terminal",
+    "animation",
+    "console"
   ],
-  "author": "",
+  "license": "GPL-3.0",
   "homepage": "",
   "peerDependencies": {
     "@motion-canvas/2d": "^3.5.1",

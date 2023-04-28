@@ -1,1 +1,1 @@
-export * from './SwitchComponent';
+export * from './TerminalComponent';
