@@ -30,7 +30,7 @@
     "code-fns": "^0.8.2"
   },
   "devDependencies": {
-    "@motion-canvas/ui": "^3.6.0",
+    "@motion-canvas/ui": "^3.6.1",
     "@motion-canvas/vite-plugin": "^3.4.0",
     "@rollup/plugin-terser": "^0.4.1",
     "@rollup/plugin-typescript": "^11.1.0",
