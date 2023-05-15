@@ -34,7 +34,7 @@
     "@motion-canvas/vite-plugin": "^3.7.0",
     "@rollup/plugin-terser": "^0.4.1",
     "@rollup/plugin-typescript": "^11.1.1",
-    "@typescript-eslint/eslint-plugin": "^5.59.5",
+    "@typescript-eslint/eslint-plugin": "^5.59.6",
     "@typescript-eslint/parser": "^5.59.5",
     "cross-env": "^7.0.3",
     "eslint": "^8.40.0",
