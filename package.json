@@ -33,7 +33,7 @@
     "@motion-canvas/ui": "^3.9.0",
     "@motion-canvas/vite-plugin": "^3.9.0",
     "@rollup/plugin-terser": "^0.4.3",
-    "@rollup/plugin-typescript": "^11.1.1",
+    "@rollup/plugin-typescript": "^11.1.2",
     "@typescript-eslint/eslint-plugin": "^5.60.1",
     "@typescript-eslint/parser": "^5.60.1",
     "cross-env": "^7.0.3",
