@@ -6,7 +6,7 @@
     "prepare": "husky install",
     "build:dev": "rollup -c rollup.config.mjs",
     "watch": "rollup -c rollup.config.mjs -w",
-    "build": "cross-env MINIFY=1 rollup -c rollup.config.mjs",
+    "build": "rollup -c rollup.config.mjs",
     "prebuild": "rimraf ./lib",
     "lint-staged": "lint-staged",
     "lint": "npm run eslint && npm run prettier",
