@@ -11,16 +11,6 @@ const config = [
   {
     input: 'src/index.ts',
     output: {
-      file: 'lib/bundle.js',
-      format: 'umd',
-      name: 'MyFirstMotionCanvasLibrary',
-    },
-    plugins: [externals(), typescript(), minify && terser()],
-    external: [/^@motion-canvas\/core/, /^@motion-canvas\/2d/],
-  },
-  {
-    input: 'src/index.ts',
-    output: {
       file: 'lib/index.js',
       format: 'es',
     },
