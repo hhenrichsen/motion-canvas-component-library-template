@@ -25,8 +25,8 @@
   "author": "",
   "homepage": "",
   "peerDependencies": {
-    "@motion-canvas/2d": "^3.5.1",
-    "@motion-canvas/core": "^3.4.0",
+    "@motion-canvas/2d": "^3.10.1",
+    "@motion-canvas/core": "^3.10.0",
     "code-fns": "^0.8.2"
   },
   "devDependencies": {
