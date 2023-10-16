@@ -26,7 +26,7 @@
   "author": "",
   "homepage": "",
   "dependencies": {
-    "@motion-canvas/2d": "^3.10.1",
+    "@motion-canvas/2d": "^3.11.0",
     "@motion-canvas/core": "^3.11.0",
     "code-fns": "^0.11.0"
   },
