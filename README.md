@@ -6,36 +6,10 @@
 
 1. Clone this repo.
 1. Run `npm install <path to this repo>` in your motion canvas project
-1. Set your `vite.config.ts` to look like this:
-
-```ts
-export default defineConfig({
-  plugins: [motionCanvas()],
-  resolve: {
-    alias: {
-      '@motion-canvas/core': path.resolve('./node_modules/@motion-canvas/core'),
-      '@motion-canvas/2d': path.resolve('./node_modules/@motion-canvas/2d'),
-    },
-  },
-});
-```
 
 ### From npm
 
 1. Run `npm install <library name here>`
-1. Set your `vite.config.ts` to look like this:
-
-```ts
-export default defineConfig({
-  plugins: [motionCanvas()],
-  resolve: {
-    alias: {
-      '@motion-canvas/core': path.resolve('./node_modules/@motion-canvas/core'),
-      '@motion-canvas/2d': path.resolve('./node_modules/@motion-canvas/2d'),
-    },
-  },
-});
-```
 
 ## Why use this repo?
 
@@ -44,8 +18,6 @@ This repo gives you a couple benefits over starting from scratch:
 - The same linting options as main motion-canvas code, which helps to keep the
   community on the same page.
 - A build pipeline in place with:
-  - support for `UMD` modules, which gives you automatic support for future
-    improvements to the ecosystem
   - automatic watch support, allowing you to develop quickly
   - automatic compilation and splitting for your TypeScript, allowing it to be
     used in a variety of environments.
