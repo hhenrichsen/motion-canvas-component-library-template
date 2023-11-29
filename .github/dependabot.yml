@@ -10,5 +10,4 @@ updates:
     schedule:
       interval: 'daily'
     commit-message:
-      # Prefix all commit messages with "npm: "
-      prefix: ':up_arrow: '
+      prefix: ':arrow_up: '
