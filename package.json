@@ -30,7 +30,7 @@
     "@motion-canvas/core": "^3.11.0"
   },
   "devDependencies": {
-    "@motion-canvas/ui": "^3.13.0",
+    "@motion-canvas/ui": "^3.14.0",
     "@motion-canvas/vite-plugin": "^3.13.0",
     "@rollup/plugin-terser": "^0.4.4",
     "@rollup/plugin-typescript": "^11.1.6",
