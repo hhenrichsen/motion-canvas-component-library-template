@@ -31,7 +31,7 @@
   },
   "devDependencies": {
     "@motion-canvas/ui": "^3.17.0",
-    "@motion-canvas/vite-plugin": "^3.17.0",
+    "@motion-canvas/vite-plugin": "^3.17.2",
     "@rollup/plugin-terser": "^0.4.4",
     "@rollup/plugin-typescript": "^12.1.0",
     "@typescript-eslint/eslint-plugin": "^7.17.0",
