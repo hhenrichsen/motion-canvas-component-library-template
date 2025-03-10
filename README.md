@@ -31,7 +31,6 @@ This repo gives you a couple benefits over starting from scratch:
    `git pull upstream main`)
 1. Update the package name in `package.json` and run `npm install`. I recommend
    something like `@username/library-name`.
-1. Update the UMD name of this package in `rollup.config.mjs`
 1. Update the title of this README.
 1. Run `npm run watch` -- this will create some files in the `lib` folder for
    you, and rebuild them here when you make changes.
